@@ -1,6 +1,6 @@
 # MERN Shopping Cart 🛒 
 
-The MERN Shopping cart is a mobile and web friendly MERN Stack app that is an e-commerce app that allows users to view a list of items, view item details and add items their cart. Items added to their cart will be cached in the users browser in the case they don't make an immediate purchase and come back on a later date.
+The MERN Shopping cart is a mobile and web friendly MERN Stack app that is an e-commerce app that allows users to view a list of items, view item details and add items their cart. Items added to their cart will be persisted in the users browser in the case they don't make an immediate purchase and come back on a later date.
 
 ## How to run:
 1. First you will need to make a new cluster on MongoDB.
