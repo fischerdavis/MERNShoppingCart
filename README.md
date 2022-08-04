@@ -9,7 +9,7 @@ The MERN Shopping cart is a mobile and web friendly MERN Stack app that is an e-
 4. For the first run you will need to run `npm run data:import` which will fill the DB.
 5. Finally use `npm run dev` which will start both the server and the web application.
 
-## Things learned
+## Things I learned
 * Caching setting and retrieving.
 * Thunk for making async requests.
 * Creating a sidedrawer for mobile friendly mode.
